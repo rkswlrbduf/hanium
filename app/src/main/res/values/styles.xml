@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme">
+        <!-- Customize your theme here. -->
+        <item name="android:windowTitleSize">48dp</item>
+        <item name="android:windowTitleBackgroundStyle">@style/CustomWindowTitleBackground</item>
+    </style>
+
+    <style name="CustomWindowTitleBackground" parent="@android:style/TextAppearance.WindowTitle">
+
+    </style>
+
+</resources>

@@ -27,7 +27,7 @@ import com.github.mikephil.charting.data.LineDataSet;
 import java.util.ArrayList;
 
 public class BluetoothChat extends Activity {
-
+//TESTING
     private static final String TAG = "BluetoothChat";
     private static final boolean D = true;
 
